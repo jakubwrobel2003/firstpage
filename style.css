@@ -48,7 +48,6 @@ body {
   background-color: #ffccd5;
   display: flex;
   justify-content: space-between;
-  box-shadow: 56px 13px 65px -20px rgba(239, 18, 101, 1);
 }
 
 .text {
@@ -101,7 +100,7 @@ h2 {
 /*RIGHT*/
 
 .right-content {
-  background-color: bisque;
+  background-color: #ffb3c1;
   width: 300px;
   /*float: right;*/
   padding-top: 20px;
