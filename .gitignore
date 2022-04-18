@@ -1,0 +1,7 @@
+# Logs
+logs
+*.log
+
+# Temps
+[Tt]mp
+[Tt]emp
